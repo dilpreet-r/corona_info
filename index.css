@@ -1,0 +1,22 @@
+.main{
+
+
+  text-align: center;
+  padding: 40px;
+  position: relative;
+  margin: 10px;
+  width: 80%;
+  margin: auto;
+}
+img{
+
+  width: 50%;
+}
+p::selection {
+      color: red;
+      background-color:lightgrey;
+  }
+.screen-only,.d11{
+  font-size: 18px;
+  font-family: arial;
+}

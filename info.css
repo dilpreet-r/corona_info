@@ -1,0 +1,38 @@
+.message, .placeholders {
+  font-size: 20px;
+  font-family: sans-serif;
+  width: 400px;
+  position: absolute;
+  top: 342px;
+}
+
+.placeholders {
+  left: 250px;
+}
+
+.message {
+  right: 250px;
+}
+
+.ll {
+  height: 30px;
+  width: 300px;
+}
+
+#ph {
+  height: 135px;
+  width: 400px;
+  padding: 10px;
+  font-size: 20px;
+}
+
+#sub {
+  width: 400px;
+  height: 52px;
+  background-color: skyblue;
+  border: 2px solid skyblue;
+  font-size: 20px;
+  color: white;
+}
+
+/*# sourceMappingURL=info.css.map */

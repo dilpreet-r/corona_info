@@ -1,0 +1,22 @@
+#main {
+  text-align: center;
+  font-size: 24px;
+}
+
+table {
+  border: 1px solid black;
+  margin: auto;
+  border-collapse: collapse;
+  margin-top: 100px;
+  width: 80%;
+}
+table td {
+  border: 1px solid black;
+  padding: 15px;
+}
+table th {
+  border: 1px solid black;
+  padding: 15px;
+}
+
+/*# sourceMappingURL=death.css.map */
